@@ -1,4 +1,4 @@
-(kicad_pcb (version 20171130) (host pcbnew "(5.1.6)-1")
+(kicad_pcb (version 20171130) (host pcbnew "(5.1.10)-1")
 
   (general
     (thickness 1.6)
@@ -104,8 +104,8 @@
     (effects (font (size 1.5 1.5) (thickness 0.3)))
   )
   (gr_poly (pts (xy 50.2158 129.9718) (xy 46.4566 115.2144) (xy 50.2158 115.2144)) (layer F.SilkS) (width 0.1))
-  (gr_text "SCALE\n" (at 44.45 41.8592) (layer F.SilkS) (tstamp 60E8B59B)
-    (effects (font (size 1.5 1.5) (thickness 0.3)))
+  (gr_text "SCALE\n" (at 41.91 40.64) (layer F.SilkS) (tstamp 60E8B59B)
+    (effects (font (size 2 2) (thickness 0.5)))
   )
   (gr_line (start 36.3982 91.3892) (end 52.9082 91.3892) (layer F.SilkS) (width 0.12))
   (gr_text Slide (at 37.9984 90.5764) (layer F.SilkS)
